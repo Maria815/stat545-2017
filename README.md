@@ -1,1 +1,1 @@
-# stat545-2017
+# exercise 1
