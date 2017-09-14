@@ -1,8 +1,4 @@
 # exercise 1
-ZZZZZZZ
-Yuanji was here.
 
 
-this line is made locally.
-
-test again
+This is my remote commit
