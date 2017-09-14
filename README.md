@@ -6,3 +6,5 @@ Yuanji was here.
 this line is made locally.
 
 test again
+
+This is my local conflict
