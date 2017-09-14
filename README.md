@@ -1,10 +1,10 @@
 # exercise 1
-ZZZZZZZ
-Yuanji was here.
 
 
+<<<<<<< HEAD
 this line is made locally.
 
 test again
 
 This is my local conflict
+
